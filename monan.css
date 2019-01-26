@@ -1,0 +1,22 @@
+#div1{
+    font-weight: bold;
+    font-size: 30px;
+}
+#div2{
+    font-weight: bold;
+    font-size: 20px; 
+}
+body{
+    background: url('./Gioi-thieu-doi-net-ve-Ho-Hoan-Kiem-Ho-Guom-o-Ha-Noi-3.jpg') scroll repeat;
+    background-size: cover;
+}
+table{
+    background-color: darkgreen;
+    border-color: darkgreen;
+    color: blanchedalmond;
+}
+#id1{
+    background-color: darkgreen;
+    color: blanchedalmond;
+    border-color: darkgreen;
+}
